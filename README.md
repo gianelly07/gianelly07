@@ -64,9 +64,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=gianelly07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Gianelly" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianelly07&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gianelly07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianelly07&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
