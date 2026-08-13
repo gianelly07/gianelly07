@@ -61,9 +61,11 @@
 * 🇬🇧 **Cambridge English Qualifications** — *PET B1 & FCE B2/C1*
 
 ---
-## 📊 Estadísticas de GitHub
+<div align="center">
+  ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gianelly07&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianelly07&theme=tokyonight" width="49%" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gianelly07&theme=tokyonight&hide_border=true" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianelly07&theme=tokyonight" width="49%" />
 </p>
+</div>
