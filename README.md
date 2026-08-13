@@ -62,28 +62,11 @@
 
 ---
 
-## 📁 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| 🎴 **[cartas-virtuales-Pokemon](https://github.com/gianelly07/cartas-virtuales-Pokemon)** | Proyecto interactivo de regalo virtual temático con animación de cartas. | `HTML` `CSS` `JS` |
-| 🎓 **[LP-EB-5491--Gianelly-Razuri](https://github.com/gianelly07/LP-EB-5491--Gianelly-Razuri)** | Proyecto académico universitario enfocado en algoritmos y estructuras. | `C++` `HTML` |
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=gianelly07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Gianelly" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianelly07&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-  📫 **¿Quieres contactarme?** [Envíame un correo](mailto:gianellyanaikarazuricedamano@gmail.com)
 
 </div>
