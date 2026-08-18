@@ -5,7 +5,7 @@
 
   🏆 **Top 10% (Top Third) & Academic Achievement Scholarship**
    Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
-
+   </div>
    ---
 
 ## 👩‍💻 About me
