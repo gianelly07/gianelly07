@@ -4,9 +4,8 @@
   A Systems Engineering student who loves coding, learning new things, and turning ideas into little projects. Always learning new stuff ♡
 </div>
 
-
   🏆 **Top 10% (Top Third) & Academic Achievement Scholarship**
-   Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
+  Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
    
 
 ## 👩‍💻 About me
