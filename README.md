@@ -10,16 +10,16 @@
 
 ## 👩‍💻 About me
 
-* 🎓 Currently pursuing a degree in **Information Systems Engineering** at the **Peruvian University of Applied Sciences (UPC)**.
-* 🛡️ Specialized training in **Cybersecurity**, security risk management, and Linux & SQL commands.
-* 🤖 Interested in **Generative Artificial Intelligence** and Language Models (LLMs).
-* 🌐 Focused on developing secure, efficient, and integrated technological solutions.
-* 🗣️ **Advanced English (C1)**, spoken and written. Native spanish speaker
-* 🙋‍♀️ Pronouns: **she / her**
+  * 🎓 Currently pursuing a degree in **Information Systems Engineering** at the **Peruvian University of Applied Sciences (UPC)**.
+  * 🛡️ Specialized training in **Cybersecurity**, security risk management, and Linux & SQL commands.
+  * 🤖 Interested in **Generative Artificial Intelligence** and Language Models (LLMs).
+  * 🌐 Focused on developing secure, efficient, and integrated technological solutions.
+  * 🗣️ **Advanced English (C1)**, spoken and written. Native spanish speaker
+  * 🙋‍♀️ Pronouns: **she / her**
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
 ### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,5 +46,6 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gianelly07&theme=tokyonight&hide_border=true" width="49%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianelly07&theme=tokyonight" width="49%" />
-</p>
+  </p>
+  </div>
 </div>
