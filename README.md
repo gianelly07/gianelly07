@@ -1,36 +1,27 @@
 <div align="center">
 
-  # 👋 ¡Hola! Soy Gianelly Razuri Cedamano
+  # 👋 Hi! I’m Gianelly°❀.ೃ࿔* 
+  A Systems Engineering student who loves coding, learning new things, and turning ideas into little projects. Always learning new stuff ♡
 
-  ### 🎓 Estudiante de Ingeniería de Sistemas de Información | UPC
-  🏆 **Top 10% (Tercio Superior) & Beca de Rendimiento Académico**
+  🏆 **Top 10% (Top Third) & Academic Achievement Scholarship**
+   Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
 
-   Apasionada por la **Ciberseguridad 🛡️**, el **Análisis de Datos 📊** y el **Desarrollo Web 💻**
+   ---
 
-  ---
+## 👩‍💻 About me
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianellyanaikarazuricedamano@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Inglés C1](https://img.shields.io/badge/Ingl%C3%A9s-C1%20Avanzado-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white)](#educación-y-certificaciones)
-
-</div>
-
-<br />
-
-## 👩‍💻 Sobre Mí
-
-* 🎓 Cursando **Ingeniería de Sistemas de Información** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**.
-* 🛡️ Formación especializada en **Ciberseguridad**, gestión de riesgos de seguridad y comandos Linux & SQL.
-* 🤖 Interesada en la **Inteligencia Artificial Generativa** y Modelos de Lenguaje (LLMs).
-* 🌐 Enfocada en desarrollar soluciones tecnológicas seguras, eficientes e integradas.
-* 🗣️ **Inglés Avanzado (C1)** hablado y escrito.
-* 🙋‍♀️ Pronombres: **she / her**
+* 🎓 Currently pursuing a degree in **Information Systems Engineering** at the **Peruvian University of Applied Sciences (UPC)**.
+* 🛡️ Specialized training in **Cybersecurity**, security risk management, and Linux & SQL commands.
+* 🤖 Interested in **Generative Artificial Intelligence** and Language Models (LLMs).
+* 🌐 Focused on developing secure, efficient, and integrated technological solutions.
+* 🗣️ **Advanced English (C1)**, spoken and written. Native spanish speaker
+* 🙋‍♀️ Pronouns: **she / her**
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-### Lenguajes & Bases de Datos
+### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -39,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Herramientas & Entornos
+### Tools & Environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,20 +39,8 @@
 
 ---
 
-## 📜 Certificaciones Destacadas
-
-* 🛡️ **Foundations of Cybersecurity** — *Google (Coursera)*
-* 🛡️ **Play It Safe: Manage Security Risks** — *Google (Coursera)*
-* 🐧 **Tools of the Trade: Linux and SQL** — *Google (Coursera)*
-* 🔒 **Cybersecurity for Everyone** — *University of Maryland (Coursera)*
-* 🤖 **Generative AI with Large Language Models** — *DeepLearning.AI & AWS (Coursera)*
-* 🌐 **HTML, CSS, and Javascript for Web Developers** — *Johns Hopkins University (Coursera)*
-* 🚀 **Microsoft GitHub Copilot Challenge**
-* 💡 **IA para la Acción: del concepto al despliegue empresarial** — *Sistemas UNI*
-* 🇬🇧 **Cambridge English Qualifications** — *PET B1 & FCE B2/C1*
-
----
 <div align="center">
+  
   ## 📊 Estadísticas de GitHub
 
   <p align="center">
