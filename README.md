@@ -2,12 +2,15 @@
 
   # 👋 Hi! I’m Gianelly°❀.ೃ࿔* 
   A Systems Engineering student who loves coding, learning new things, and turning ideas into little projects. Always learning new stuff ♡
+  
 </div>
 
-  🏆 **Top 10% (Top Third) & Academic Achievement Scholarship**
-  Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
-   
+🏆 **Top 10% (Top Third) & Academic Achievement Scholarship**
+Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
 
+  ---
+
+  
 ## 👩‍💻 About me
 
   * 🎓 Currently pursuing a degree in **Information Systems Engineering** at the **Peruvian University of Applied Sciences (UPC)**.
