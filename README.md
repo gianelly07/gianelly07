@@ -2,6 +2,7 @@
 
   # 👋 Hi! I’m Gianelly°❀.ೃ࿔* 
   A Systems Engineering student who loves coding, learning new things, and turning ideas into little projects. Always learning new stuff ♡
+  <img width="52" height="83" alt="moonstick" src="https://github.com/user-attachments/assets/6b0e1d3c-f557-4f7d-854b-9085e2abae08" />
   
 </div>
 
@@ -9,7 +10,6 @@
 Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
 
   ---
-<img width="52" height="83" alt="moonstick" src="https://github.com/user-attachments/assets/6b0e1d3c-f557-4f7d-854b-9085e2abae08" />
 
   ## 👩‍💻 About me
 
