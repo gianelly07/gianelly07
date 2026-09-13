@@ -51,9 +51,11 @@
 
 ---
 <div align="center">
+  
   <div align="center">
     <img width="177" height="155" alt="study" src="https://github.com/user-attachments/assets/955e6a52-2e76-4aac-ab28-30280dd6279d" />
   </div>
+  
   ## 📊 Estadísticas de GitHub
 
   <p align="center">
