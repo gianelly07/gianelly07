@@ -1,7 +1,9 @@
 <img width="130" height="50" alt="SailorMoonLogo" src="https://github.com/user-attachments/assets/b533d333-bcd2-4ae4-93b6-cd776174f4ff" />
 
 ---
-<img width="370" height="121" alt="smpeek" src="https://github.com/user-attachments/assets/b36b2a12-fc07-41df-9bae-0583e0a51473" />
+<div align="center">
+  <img width="370" height="121" alt="smpeek" src="https://github.com/user-attachments/assets/b36b2a12-fc07-41df-9bae-0583e0a51473" />
+</div>
 
 ---
 <div align="center">
