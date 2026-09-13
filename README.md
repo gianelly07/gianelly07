@@ -10,7 +10,7 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
 
   ---
 <img width="52" height="83" alt="moonstick" src="https://github.com/user-attachments/assets/6b0e1d3c-f557-4f7d-854b-9085e2abae08" />
-## 👩‍💻 About me
+###### 👩‍💻 About me
 
   * 🎓 Currently pursuing a degree in **Information Systems Engineering** at the **Peruvian University of Applied Sciences (UPC)**.
   * 🛡️ Specialized training in **Cybersecurity**, security risk management, and Linux & SQL commands.
