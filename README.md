@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
   <img width="130" height="50" alt="SailorMoonLogo" src="https://github.com/user-attachments/assets/b533d333-bcd2-4ae4-93b6-cd776174f4ff" />
 </div>
 
