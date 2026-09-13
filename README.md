@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Hi! I’m Gianelly°❀.ೃ࿔*  https://graphy.neocities.org/pkmndeco/470-1.gif
+  # 👋 Hi! I’m Gianelly°❀.ೃ࿔* assets/https://graphy.neocities.org/pkmndeco/470-1.gif
   A Systems Engineering student who loves coding, learning new things, and turning ideas into little projects. Always learning new stuff ♡
   
 </div>
