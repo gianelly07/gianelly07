@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Hi! I’m Gianelly°❀.ೃ࿔* assets/https://graphy.neocities.org/pkmndeco/470-1.gif
+  # 👋 Hi! I’m Gianelly°❀.ೃ࿔* 
   A Systems Engineering student who loves coding, learning new things, and turning ideas into little projects. Always learning new stuff ♡
   
 </div>
@@ -10,9 +10,8 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
 
   ---
 
-  
 ## 👩‍💻 About me
-
+<img width="52" height="83" alt="moonstick" src="https://github.com/user-attachments/assets/6b0e1d3c-f557-4f7d-854b-9085e2abae08" />
   * 🎓 Currently pursuing a degree in **Information Systems Engineering** at the **Peruvian University of Applied Sciences (UPC)**.
   * 🛡️ Specialized training in **Cybersecurity**, security risk management, and Linux & SQL commands.
   * 🤖 Interested in **Generative Artificial Intelligence** and Language Models (LLMs).
