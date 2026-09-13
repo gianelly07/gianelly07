@@ -1,3 +1,5 @@
+<img width="130" height="50" alt="SailorMoonLogo" src="https://github.com/user-attachments/assets/b533d333-bcd2-4ae4-93b6-cd776174f4ff" />
+<img width="370" height="121" alt="smpeek" src="https://github.com/user-attachments/assets/b36b2a12-fc07-41df-9bae-0583e0a51473" />
 <div align="center">
 
   # 👋 Hi! I’m Gianelly°❀.ೃ࿔* 
@@ -18,12 +20,8 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
   * 🌐 Focused on developing secure, efficient, and integrated technological solutions.
   * 🗣️ **Advanced English (C1)**, spoken and written. Native spanish speaker
   * 🙋‍♀️ Pronouns: **she / her**
-
 ---
 
-<img width="52" height="83" alt="moonstick" src="https://github.com/user-attachments/assets/6b0e1d3c-f557-4f7d-854b-9085e2abae08" /> ## 🛠️ Technical Skills
-
----
 ## 🛠️ Technical Skills
 
 ### Languages & Databases
@@ -41,10 +39,6 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Figma UX/UI](https://img.shields.io/badge/UX/UI-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<img width="20" height="20" alt="rilakuma" src="https://github.com/user-attachments/assets/a132b223-79a8-4d5f-8b53-2348a2ad4803" />
 
 ---
 <div align="center">
