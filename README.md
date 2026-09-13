@@ -8,17 +8,16 @@
 
 <div align="center">
 
-  # 👋 Hi! I’m Gianelly°❀.ೃ࿔* 
+  # Hi! I’m Gianelly°❀.ೃ࿔* 
   A Systems Engineering student who loves coding, learning new things, and turning ideas into little projects. Always learning new stuff ♡
   
 </div>
 
-🏆 **Top 10% (Top Third) & Academic Achievement Scholarship**
-Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
+ ㅤ♡ྀི ₊ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web Development 💻**
 
   ---
 
-  ## 👩‍💻 About me
+  ## ✎﹏﹏﹏﹏  About me 
 
   * 🎓 Currently pursuing a degree in **Information Systems Engineering** at the **Peruvian University of Applied Sciences (UPC)**.
   * 🛡️ Specialized training in **Cybersecurity**, security risk management, and Linux & SQL commands.
@@ -27,6 +26,10 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
   * 🗣️ **Advanced English (C1)**, spoken and written. Native spanish speaker
   * 🙋‍♀️ Pronouns: **she / her**
 ---
+
+<div align="center">
+  <img width="100" height="100" alt="laptop" src="https://github.com/user-attachments/assets/c1daabb9-fca0-49f5-a26f-233ab421642a" />
+</div>
 
 ## 🛠️ Technical Skills
 
@@ -48,7 +51,9 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
 
 ---
 <div align="center">
-  
+  <div align="center">
+    <img width="177" height="155" alt="study" src="https://github.com/user-attachments/assets/955e6a52-2e76-4aac-ab28-30280dd6279d" />
+  </div>
   ## 📊 Estadísticas de GitHub
 
   <p align="center">
