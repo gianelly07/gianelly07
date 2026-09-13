@@ -22,6 +22,8 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
 ---
 
 <img width="52" height="83" alt="moonstick" src="https://github.com/user-attachments/assets/6b0e1d3c-f557-4f7d-854b-9085e2abae08" />
+
+---
 ## 🛠️ Technical Skills
 
 ### Languages & Databases
@@ -41,7 +43,10 @@ Passionate about **Cybersecurity 🛡️**, **Data Analysis 📊**, and **Web De
 ![Figma UX/UI](https://img.shields.io/badge/UX/UI-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
 <img width="20" height="20" alt="rilakuma" src="https://github.com/user-attachments/assets/a132b223-79a8-4d5f-8b53-2348a2ad4803" />
+
+---
 <div align="center">
   
   ## 📊 Estadísticas de GitHub
